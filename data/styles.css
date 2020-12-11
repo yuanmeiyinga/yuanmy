@@ -10,9 +10,11 @@
   line-height:normal;
   text-transform:none;
 }
-.box_2 {
+.box_1 {
 }
-.image {
+._形状 {
+}
+._图片_ {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
@@ -58,9 +60,34 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+._线段 {
+}
+.menu_item {
+}
+._流程形状 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
